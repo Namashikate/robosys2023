@@ -11,5 +11,7 @@ res=0
 
 ### I/O TEST ###
 out=$(seq 5 | ./plus)
+[ "${out}" = 14 ] || ng ${LINENO}
+
 
 
