@@ -1,3 +1,13 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: 2023 Kaito Suzuki
+# SPDX-License-Identifier: BSD-3-Clause
 
-seq 5 | ./plus
+ng () {
+	echo NG at Line $1
+	res=1
+}
+
+out=$(seq 5 | ./plus)
+
+[ "${out}" = 15 ]
+
