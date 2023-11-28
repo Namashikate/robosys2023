@@ -1,19 +1,31 @@
 # robosys2023
+
 # リポジトリ概要
 ロボットシステム学課題提出用リポジトリ
+
 # インストール方法
 * ターミナルを開いた後、以下のコマンドにてクローニングを行います.
+
 ``` 
 git clone https://github.com/Namashikate/robosys2023.git 
 ```
 * クローニング後、ディレクトリ"robosys2023"に移動します.
+
 ``` 
 cd robosys2023 
 ```
+
 # plusコマンド
 ![test](https://github.com/Namashikate/robosys2023/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足す。
+標準入力から読み込んだ数字を足した後、合計値が偶数か奇数かを判別します.
+
+* 使用方法
+```
+seq n | ./plus
+S (偶数or奇数)
+```
+任意の数nまでの合計値Sを計算し、偶数か奇数かの判別を行います.
 
 ## 必要なソフトウェア
 * Python
