@@ -24,5 +24,5 @@ cd robosys2023
 ## 著作権・ライセンス
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * このパッケージのコードの一部は，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作とし、コードの一部を改変したものです．
-	*  [ryuichiueda/my_slides robosys_2023](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2023)
+	*  [ryuichiueda/robosys_2023](https://github.com/ryuichiueda/robosys2023)
 * © 2023 Kaito Suzuki
