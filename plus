@@ -10,8 +10,14 @@ def tonum(s):
       return float(s)
 
 ans = 0
+
 for line in sys.stdin:
     line = line.rstrip()
     ans += tonum(line)
 
+if ans % 2 == 0:
+    guki = ('偶数')
+else:
+    guki = ('奇数')
+print(guki)
 print(ans)
