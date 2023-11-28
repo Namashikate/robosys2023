@@ -1,5 +1,6 @@
 # robosys2023
 ロボットシステム学の練習リポジトリ
+# インストール方法
 # plusコマンド
 ![test](https://github.com/Namashikate/robosys2023/actions/workflows/test.yml/badge.svg)
 
