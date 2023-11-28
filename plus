@@ -19,5 +19,5 @@ if ans % 2 == 0:
     guki = ('偶数')
 else:
     guki = ('奇数')
-print(guki)
-print(ans)
+
+print(ans) print(guki)
