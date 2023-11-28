@@ -16,10 +16,10 @@ cd robosys2023
 
 ## 必要なソフトウェア
 * Python
-  * テスト済み: 3.7～3.10
+  * テスト済み.ver: 3.7～3.10
 
 ## テスト環境
-* Ubuntu
+* Ubuntu 22.04.2 LTS
 
 Outputs the sum of the input numbers
 
