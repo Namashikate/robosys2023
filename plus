@@ -20,4 +20,4 @@ if ans % 2 == 0:
 else:
     guki = ('奇数')
 
-print(ans) print(guki)
+print(ans, guki)
