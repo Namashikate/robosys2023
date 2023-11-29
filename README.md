@@ -18,7 +18,7 @@ cd robosys2023
 # plusコマンド
 ![test](https://github.com/Namashikate/robosys2023/actions/workflows/test.yml/badge.svg)
 
-標準入力から読み込んだ数字を足した後、合計値が偶i数か奇数かを判別します.
+標準入力から読み込んだ数字を足した後、合計値が偶数か奇数かを判別します.
 
 * 使用方法
 
